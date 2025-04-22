@@ -1796,3 +1796,17 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.22-20.44.13:964][411]LogWorld: Bringing up level for play took: 0.003388
 [2025.04.22-20.44.13:979][411]PIE: Server logged in
 [2025.04.22-20.44.13:981][411]PIE: Play in editor total start time 0.182 seconds.
+[2025.04.22-20.45.17:242][673]LogDerivedDataCache: C:/Users/adesjarlais31/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.22-20.45.18:959][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.22-20.45.18:959][863]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.04.22-20.45.18:959][863]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.22-20.45.18:960][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.22-20.45.18:960][863]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.04.22-20.45.18:964][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.22-20.45.18:968][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.22-20.45.18:982][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.22-20.45.18:982][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.04.22-20.45.18:983][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.22-20.45.18:985][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.22-20.45.18:994][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.22-20.45.19:086][864]LogPlayLevel: Display: Destroying online subsystem :Context_3
